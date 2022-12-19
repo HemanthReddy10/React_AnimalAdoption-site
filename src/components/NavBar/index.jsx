@@ -4,6 +4,7 @@ import husky from "./images/KingHuskyHead.webp";
 import { useState } from "react";
 import "./dropdown.css";
 
+
 const NavBar = ({ callBack }) => {
   const [state,setstate]=useState(false);
   const showDropdown=()=>{
@@ -17,7 +18,7 @@ const NavBar = ({ callBack }) => {
 <button id="skip" alt="skip to content" onClick={() => callBack("home")}>Skip to content</button>           
 <div className="header_main">
     <a onClick={() => callBack("home")}>
-    <img src={husky} alt="michael" className="headerImage"/>
+    <img src="https://images.squarespace-cdn.com/content/v1/5ebb0ca06dde6c0448082d3d/1593203210126-H163LY7P4NIKTE3RRQ83/imprinting+stage.jpg" alt="michael" className="headerImage"/>
 </a>
     <h1 className="header_text">We Care - Changing Lives</h1>
     
