@@ -1,0 +1,39 @@
+.dropdown-menu {
+    position: relative;
+    
+       
+    
+  }
+
+.dropdown-list{
+    position: absolute;
+    background-color:black;
+    z-index: 1;
+}  
+.ddl {
+	border-radius: 4px;
+	background-color: #080200;
+	border: none;
+	color: #ffffff;
+	text-align: center;
+	font-size: 16px;
+	padding: 5px;
+	width: 6rem;
+	cursor: pointer;
+	margin: 5px;
+}
+
+button#skip,button#skip:hover,button#skip:visited{
+    position: absolute;
+    top:-500px;
+    width:1px;
+    height:1px;
+    overflow: hidden;
+}
+
+button#skip:active,button#skip:focus{
+    position:static;
+    width:auto;
+    height:auto;
+    
+}

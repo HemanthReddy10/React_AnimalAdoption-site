@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.27cde706.css",
+    "main.js": "/static/js/main.1485ec50.js",
+    "static/js/787.b3d32539.chunk.js": "/static/js/787.b3d32539.chunk.js",
+    "static/media/richard-brutyo-Sg3XwuEpybU-unsplash.jpg": "/static/media/richard-brutyo-Sg3XwuEpybU-unsplash.c731b65c37e72c32bfe8.jpg",
+    "static/media/ash-v0_MCllHY9M-unsplash.jpg": "/static/media/ash-v0_MCllHY9M-unsplash.740523e748f728a60fc8.jpg",
+    "static/media/alvan-nee-eoqnr8ikwFE-unsplash.jpg": "/static/media/alvan-nee-eoqnr8ikwFE-unsplash.20b77ab4dce51ad98be8.jpg",
+    "static/media/pramod-tiwari-Gkk8m0_rFgs-unsplash.jpg": "/static/media/pramod-tiwari-Gkk8m0_rFgs-unsplash.e571c6cd5a6387763d49.jpg",
+    "static/media/alvan-nee-8g0D8ZfFXyA-unsplash.jpg": "/static/media/alvan-nee-8g0D8ZfFXyA-unsplash.54380d4a7a04824564bd.jpg",
+    "static/media/marliese-streefland-2l0CWTpcChI-unsplash.jpg": "/static/media/marliese-streefland-2l0CWTpcChI-unsplash.717ad58b3ff5fb2e9889.jpg",
+    "static/media/celine-sayuri-tagami-2s6ORaJY6gI-unsplash.jpg": "/static/media/celine-sayuri-tagami-2s6ORaJY6gI-unsplash.1cdd1c8ed45b9a5682eb.jpg",
+    "static/media/img3.jpeg": "/static/media/img3.de8b06b5fed7e33a301c.jpeg",
+    "static/media/img1.jpeg": "/static/media/img1.037f0ae27d7fa15324cf.jpeg",
+    "static/media/img2.jpeg": "/static/media/img2.153e833fdc775e353b18.jpeg",
+    "static/media/KingHuskyHead.webp": "/static/media/KingHuskyHead.107a0d001f0068e3c0bf.webp",
+    "static/media/photo-1.jpeg": "/static/media/photo-1.29de54e9b1fd9d86a79f.jpeg",
+    "index.html": "/index.html",
+    "main.27cde706.css.map": "/static/css/main.27cde706.css.map",
+    "main.1485ec50.js.map": "/static/js/main.1485ec50.js.map",
+    "787.b3d32539.chunk.js.map": "/static/js/787.b3d32539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27cde706.css",
+    "static/js/main.1485ec50.js"
+  ]
+}
