@@ -1,6 +1,6 @@
 # View Demo here
 
-https://main.d2rvlntfp2obav.amplifyapp.com/
+https://adopt-me-096932.netlify.app/
 
 
 
