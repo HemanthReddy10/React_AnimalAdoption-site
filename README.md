@@ -1,9 +1,3 @@
-# View Demo here
-
-https://adopt-me-096932.netlify.app/
-
-
-
 
 # Getting Started with Create React App
 
