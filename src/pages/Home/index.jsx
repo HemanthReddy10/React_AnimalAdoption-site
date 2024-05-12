@@ -9,7 +9,7 @@ const Home = ({callBack}) => {
     <Slider callBack={callBack} />
 
 
-      <h2 className="rem">Kindness Forever </h2>
+      {/* <h2 className="rem">Kindness Forever </h2>
       <div className="rem" >
                
                <p >A dog has a strong power of smell. They are more liked by people because of their faithfulness. They are intelligent, they are watchfulness. The dogs have many colors such as grey, white, black, brown and red. They are of many kinds such as bloodhound, greyhound, german shepherd, Labrador, Rottweiler, bulldog poodle, etc.Usually, the dog eats fish, meat, milk, rice, bread, etc. Dogs are sometimes called canines.
@@ -24,7 +24,7 @@ const Home = ({callBack}) => {
                No matter what is going on in the world, dogs never cease to put a smile on our face or bring a tear to our eye. In a year filled with unique challenges and ever-changing realities, 2020 also provided us with plenty of inspirational and heartwarming stories involving our beloved four-legged friends. Let’s take a trip down memory lane and celebrate the Top 10 Feel-Good Dog Stories of 2020
                 In the early morning hours of a Sunday in September, a family in Bethel, Connecticut, was suddenly awakened by their 4-year-old Dachshund, Jasper. The dog’s erratic behavior led the husband to discover the neighbor’s porch was engulfed in flames with the family sleeping inside. The husband immediately warned the family and called 911.   
                </p>
-               </div>
+               </div> */}
 
              
 

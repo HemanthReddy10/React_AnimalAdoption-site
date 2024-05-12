@@ -19,7 +19,7 @@ const Slider = ({callBack}) => {
   useEffect(() => {
     let slider = setInterval(() => {
       setIndex(index + 1);
-    }, 30000);
+    }, 3000);
     return () => {
       clearInterval(slider);
     };
