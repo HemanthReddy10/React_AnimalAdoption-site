@@ -36,6 +36,13 @@ const Testimonials = () => {
     <h5>Pelican Steve <span> Dog lover</span></h5>
   </div>
 </figure>
+<figure className="snip">
+  <blockquote>Thank you for the wonderful experience of adopting Daisy. She has been wonderful. She settled into our journey across the States like a pro, as if she were part of us from the very beginning. Just wanted to let you know that we are truly grateful for how well cared for she was and how much she will be loved here. Lots of hugs! At first, CeCe was a little bit nervous and shy. I knew that was normal !!</blockquote>
+  <div className="author">
+    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/331810/sq-sample24.jpg"  alt="sq-sample29"/>
+    <h5>Eleanor Faint<span> Animal Lover</span></h5>
+  </div>
+</figure>
 </div>
 </>
   );
